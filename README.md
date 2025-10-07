@@ -10,7 +10,7 @@
 <h2 align="center">🚀 Tecnologias que uso</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,svelte,solidjs,python,java,cs,dotnet,postgres,docker,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,svelte,solidjs,python,java,cs,dotnet,postgres,docker,mongodb" />
 </p>
 
 ---
