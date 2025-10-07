@@ -1,4 +1,4 @@
-# 🙋‍♀️ Oi! Eu sou a Ana Jungbluth <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30">
+# 🙋‍♀️ Oi! Eu sou a Ana Carolina Jungbluth <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30">
 
 💻 Adoro programar, aprender e criar coisas novas.  
 😄 Às vezes erro uma vírgula e passo meia hora caçando o bug (quem nunca?).  
